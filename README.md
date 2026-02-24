@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbysaad&label=Profile%20views&color=0e75b6&style=flat" alt="devbysaad" /> </p>
 
-- 🌱 I’m currently learning **Typescript and Next**
-
 - 📝 I regularly write articles on [https://x.com/maisaadhon](https://x.com/maisaadhon)
 
 - 💬 Ask me about **Full stack**
