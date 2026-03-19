@@ -1,29 +1,170 @@
-<h1 align="center">Hi 👋, I'm Saad</h1>
-<h3 align="center">A passionate Software Engineer from the realms of this world.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devbysaad&label=Profile%20views&color=0e75b6&style=flat" alt="devbysaad" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Saad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descColor=a78bfa&descSize=22&descAlignY=58&animation=fadeIn" width="100%"/>
 
-- 📝 I regularly write articles on [https://x.com/maisaadhon](https://x.com/maisaadhon)
+<br/>
 
-- 💬 Ask me about **Full stack**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production+web+apps;Full+Stack+%7C+React+%7C+Next.js+%7C+Node.js;AI+%2F+Agents+%7C+RAG+%7C+Gemini+API;Open+Source+Contributor)](https://git.io/typing-svg)
 
-- 📫 How to reach me **dev.bysaad@gmail.com**
+<br/>
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1rFh-6W9ENOPqQrS3GRCKyNHkBvizFrNrGUYQ9fTk62g/edit?tab=t.0](https://docs.google.com/document/d/1rFh-6W9ENOPqQrS3GRCKyNHkBvizFrNrGUYQ9fTk62g/edit?tab=t.0)
+[![Profile Views](https://komarev.com/ghpvc/?username=devbysaad&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/devbysaad)
+&nbsp;
+[![Twitter Follow](https://img.shields.io/twitter/follow/maisaadhon?style=for-the-badge&logo=twitter&color=1d9bf0&labelColor=0f172a)](https://twitter.com/maisaadhon)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-972185381/)
 
-- ⚡ Fun fact **I enjoy working for long hours**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/maisaadhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maisaadhon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-saad-972185381/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3buhekm6lhrcwboqjluaqega%3d%3df" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-saad-972185381/?lipi=urn%3ali%3apage%3ad_flagship3_feed%3buhekm6lhrcwboqjluaqega%3d%3df" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61571834966127" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61571834966127" height="30" width="40" /></a>
-<a href="https://instagram.com/maisaadhon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maisaadhon" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
+## 〔 About Me 〕
 
+```ts
+const saad = {
+  role        : "Full Stack Engineer",
+  location    : "Islamabad, Pakistan 🇵🇰",
+  experience  : ["Internship @ Devnauts", "Freelance", "Open Source"],
+  currentFocus: ["Production Web Apps", "AI Agents", "Scalable Architectures"],
+  contact     : "dev.bysaad@gmail.com",
+  funFact     : "I genuinely enjoy working long hours — it doesn't feel like work.",
+};
+```
 
+<br/>
 
+Full stack developer with hands-on experience delivering production web applications for clients and teams. My background spans freelance work, a software internship, and open source contributions. I work across the full stack — frontend, backend, databases, DevOps — with a strong focus on clean architecture and practical, shipped solutions.
+
+<br/>
+
+---
+
+## 〔 Tech Stack 〕
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux_Saga-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Databases & ORM
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+### AI & Agents
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Crew AI](https://img.shields.io/badge/Crew_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_ReAct-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+<br/>
+
+---
+
+## 〔 Experience 〕
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 Full Stack Developer Intern
+**Devnauts** · *2025 · 3 months*
+- Built and maintained production web apps using the MERN stack
+- Integrated frontend with backend APIs and improved performance
+- Resolved critical production bugs in live systems
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Freelance Web Developer
+**Independent** · *2024 – Present*
+- Delivered complete full-stack projects end-to-end
+- Handled requirements, development, deployment & support
+- Worked directly with clients across different domains
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 Open Source Contributor
+**GitHub** · *2024 – Present*
+- Contributed bug fixes and features to public repositories
+- Collaborated with international open source communities
+
+</td>
+<td width="50%" valign="top">
+
+### 📄 Resume
+Want the full breakdown of experience and projects?
+
+[![Resume](https://img.shields.io/badge/View_Resume-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1rFh-6W9ENOPqQrS3GRCKyNHkBvizFrNrGUYQ9fTk62g/edit?tab=t.0)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+## 〔 GitHub Stats 〕
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbysaad&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbysaad&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devbysaad&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+
+</div>
+
+<br/>
+
+---
+
+## 〔 Connect With Me 〕
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-dev.bysaad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.bysaad@gmail.com)
+&nbsp;
+[![Twitter / X](https://img.shields.io/badge/Twitter_/_X-@maisaadhon-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/maisaadhon)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Saad-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-972185381/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@maisaadhon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maisaadhon)
+&nbsp;
+[![Facebook](https://img.shields.io/badge/Facebook-Muhammad_Saad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61571834966127)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
