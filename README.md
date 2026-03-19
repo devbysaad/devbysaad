@@ -4,11 +4,13 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production+web+apps;Full+Stack+%7C+React+%7C+Next.js+%7C+Node.js;AI+%2F+Agents+%7C+RAG+%7C+Gemini+API;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production+web+apps;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Full+Stack+%7C+Freelance+%7C+Open+Source)](https://git.io/typing-svg)
 
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=devbysaad&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/devbysaad)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-devbysaad.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://devbysaad.vercel.app)
 &nbsp;
 [![Twitter Follow](https://img.shields.io/twitter/follow/maisaadhon?style=for-the-badge&logo=twitter&color=1d9bf0&labelColor=0f172a)](https://twitter.com/maisaadhon)
 &nbsp;
@@ -27,7 +29,7 @@ const saad = {
   role        : "Full Stack Engineer",
   location    : "Islamabad, Pakistan 🇵🇰",
   experience  : ["Internship @ Devnauts", "Freelance", "Open Source"],
-  currentFocus: ["Production Web Apps", "AI Agents", "Scalable Architectures"],
+  currentFocus: ["Production Web Apps", "Scalable Architectures", "AI Features"],
   contact     : "dev.bysaad@gmail.com",
   funFact     : "I genuinely enjoy working long hours — it doesn't feel like work.",
 };
@@ -46,10 +48,10 @@ Full stack developer with hands-on experience delivering production web applicat
 ### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux_Saga-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
@@ -57,27 +59,18 @@ Full stack developer with hands-on experience delivering production web applicat
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-### Databases & ORM
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-### AI & Agents
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Crew AI](https://img.shields.io/badge/Crew_AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_ReAct-FF4B4B?style=for-the-badge&logo=pytorch&logoColor=white)
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Clerk](https://img.shields.io/badge/Clerk_Auth-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <br/>
@@ -153,6 +146,8 @@ Want the full breakdown of experience and projects?
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-devbysaad.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://devbysaad.vercel.app)
+&nbsp;
 [![Email](https://img.shields.io/badge/Email-dev.bysaad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.bysaad@gmail.com)
 &nbsp;
 [![Twitter / X](https://img.shields.io/badge/Twitter_/_X-@maisaadhon-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/maisaadhon)
