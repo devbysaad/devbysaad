@@ -1,120 +1,168 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Muhammad%20Saad&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Engineer&descColor=a78bfa&descSize=22&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=160&text=MUHAMMAD%20SAAD&fontColor=ffffff&fontSize=52&fontAlignY=55&desc=Full%20Stack%20Engineer&descColor=888888&descSize=18&descAlignY=78" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+production+web+apps;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Full+Stack+%7C+Freelance+%7C+Open+Source)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Unapologetically+functional%2C+obsessively+refined.;React+%7C+Next.js+%7C+Node.js+%7C+TypeScript;Agentic+AI+%7C+PostgreSQL+%7C+LangChain)](https://git.io/typing-svg)
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=devbysaad&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/devbysaad)
-&nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-devbysaad.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://devbysaad.vercel.app)
-&nbsp;
-[![Twitter Follow](https://img.shields.io/twitter/follow/maisaadhon?style=for-the-badge&logo=twitter&color=1d9bf0&labelColor=0f172a)](https://twitter.com/maisaadhon)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-972185381/)
+[![Profile Views](https://komarev.com/ghpvc/?username=devbysaad&label=Profile+Views&color=000000&style=flat-square)](https://github.com/devbysaad)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/devbysaad.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://devbysaad.vercel.app)
+&nbsp;&nbsp;
+[![Twitter](https://img.shields.io/badge/@maisaadhon-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/maisaadhon)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-972185381/)
 
 </div>
 
----
-
 <br/>
 
-## 〔 About Me 〕
+```
+// Full-stack developer. Unapologetically functional, obsessively refined.
+// 3+ years building scalable, production-grade web applications.
 
-```ts
 const saad = {
   role        : "Full Stack Engineer",
-  location    : "Islamabad, Pakistan 🇵🇰",
-  experience  : ["Internship @ Devnauts", "Freelance", "Open Source"],
-  currentFocus: ["Production Web Apps", "Scalable Architectures", "AI Features"],
+  location    : "Islamabad, Pakistan",
+  current     : "Cadet Engineer @ DevNauts",
+  focus       : ["Production Web Apps", "Agentic AI", "Scalable Architectures"],
+  available   : true,
   contact     : "dev.bysaad@gmail.com",
-  funFact     : "I genuinely enjoy working long hours — it doesn't feel like work.",
 };
 ```
 
 <br/>
 
-Full stack developer with hands-on experience delivering production web applications for clients and teams. My background spans freelance work, a software internship, and open source contributions. I work across the full stack — frontend, backend, databases, DevOps — with a strong focus on clean architecture and practical, shipped solutions.
+---
+
+## Stack
+
+**Frontend**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-000000?style=flat-square&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-000000?style=flat-square&logo=greensock&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-000000?style=flat-square&logo=framer&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=postman&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-000000?style=flat-square&logo=socketdotio&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-000000?style=flat-square&logo=prisma&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / Agentic**
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square&logo=graphql&logoColor=white)
+![Agentic AI & RAG](https://img.shields.io/badge/Agentic_AI_%26_RAG-000000?style=flat-square&logo=openai&logoColor=white)
+
+**DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![Turborepo](https://img.shields.io/badge/Turborepo-000000?style=flat-square&logo=turborepo&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=white)
 
 <br/>
 
 ---
 
-## 〔 Tech Stack 〕
+## Experience
 
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+| Role | Company | Period |
+|---|---|---|
+| Cadet Engineer | DevNauts | Jan 2026 – Present |
+| Full Stack Engineer | Freelance | 2024 – Present |
+| Open Source Contributor | GitHub | Feb 2026 – Present |
 
 <br/>
 
 ---
 
-## 〔 Experience 〕
+## Selected Work
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🏢 Full Stack Developer Intern
-**Devnauts** · *2025 · 3 months*
-- Built and maintained production web apps using the MERN stack
-- Integrated frontend with backend APIs and improved performance
-- Resolved critical production bugs in live systems
+**[Sayloop](https://sayloop.vercel.app/)**
+
+English learning platform built around real human conversation. No scripts. No bots. Just people.
+
+`TypeScript` `PostgreSQL` `WebSocket` `Prisma`
+
+[GitHub](https://github.com/devbysaad/sayloop-test) · [Live](https://sayloop.vercel.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 Freelance Web Developer
-**Independent** · *2024 – Present*
-- Delivered complete full-stack projects end-to-end
-- Handled requirements, development, deployment & support
-- Worked directly with clients across different domains
+**[Creavix](https://creavix.vercel.app/)**
+
+Complete suite of intelligent tools to create, refine, and elevate content using advanced AI technology.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma`
+
+[GitHub](https://github.com/devbysaad/Creavix) · [Live](https://creavix.vercel.app/)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌍 Open Source Contributor
-**GitHub** · *2024 – Present*
-- Contributed bug fixes and features to public repositories
-- Collaborated with international open source communities
+**[Nust Rumours](https://www.nustgossips.app/)**
+
+Campus rumours, staked votes, and a Bayesian trust score powered by the crowd — not an admin. 100% anonymous.
+
+`Next.js` `TypeScript`
+
+[Live](https://www.nustgossips.app/)
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 Resume
-Want the full breakdown of experience and projects?
+**[Subak Raftar](https://subak-raftar.vercel.app/)**
 
-[![Resume](https://img.shields.io/badge/View_Resume-7C3AED?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1rFh-6W9ENOPqQrS3GRCKyNHkBvizFrNrGUYQ9fTk62g/edit?tab=t.0)
+Internal courier management portal for a Pakistani logistics company. Integrates TCS, Leopards, Trax, and M&P.
+
+`React` `TypeScript` `Redux Saga` `Node.js`
+
+[GitHub](https://github.com/devbysaad/subak-raftar) · [Live](https://subak-raftar.vercel.app/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Pato Hornets](https://patohornets.vercel.app/)**
+
+Full-stack management platform for football clubs and academies. Player management, financials, kit ordering.
+
+`Next.js` `TypeScript` `PostgreSQL` `Prisma`
+
+[GitHub](https://github.com/devbysaad/Club-Management-System) · [Live](https://patohornets.vercel.app/)
+
+</td>
+<td width="50%" valign="top">
+
+&nbsp;
 
 </td>
 </tr>
@@ -124,17 +172,17 @@ Want the full breakdown of experience and projects?
 
 ---
 
-## 〔 GitHub Stats 〕
+## GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=devbysaad&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=c4b5fd"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=devbysaad&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=000000&title_color=ffffff&icon_color=ffffff&text_color=888888"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbysaad&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=c4b5fd"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbysaad&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=888888"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devbysaad&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=7c3aed&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devbysaad&theme=dark&hide_border=true&background=000000&stroke=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555" />
 
 </div>
 
@@ -142,24 +190,22 @@ Want the full breakdown of experience and projects?
 
 ---
 
-## 〔 Connect With Me 〕
+## Contact
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-devbysaad.vercel.app-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://devbysaad.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://devbysaad.vercel.app)
 &nbsp;
-[![Email](https://img.shields.io/badge/Email-dev.bysaad%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.bysaad@gmail.com)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.bysaad@gmail.com)
 &nbsp;
-[![Twitter / X](https://img.shields.io/badge/Twitter_/_X-@maisaadhon-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/maisaadhon)
+[![Twitter / X](https://img.shields.io/badge/Twitter_/_X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/maisaadhon)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad_Saad-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-972185381/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-saad-972185381/)
 &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-@maisaadhon-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maisaadhon)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/Facebook-Muhammad_Saad-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61571834966127)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/maisaadhon)
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=60&text=BUILT%20WITH%20RIGOR%20AND%20CRAFT%20·%20%C2%A9%202026&fontColor=333333&fontSize=13&fontAlignY=55" width="100%"/>
